@@ -64,6 +64,8 @@ public class RegisterDemoFlow {
 	@Test(priority = 1)
 	public void launchApplication() {
 
+		System.out.println("CI CD is implemented");
+		
 		// Set the system property for the Edge browser
 		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
 
