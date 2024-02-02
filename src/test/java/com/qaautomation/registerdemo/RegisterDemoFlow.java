@@ -14,6 +14,8 @@ import org.testng.annotations.Test;
 
 public class RegisterDemoFlow {
 
+	// code added by Vinoth R for DevOps
+
 	public WebDriver driver;
 
 	// Parameterize all the Input Values
